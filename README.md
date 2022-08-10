@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **r-oleg-official/r-oleg-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there, I'm Oleg 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">𝓘𝓣-𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻, 𝓼𝓽𝓾𝓭𝓮𝓷𝓽 𝓯𝓻𝓸𝓶 𝓡𝓾𝓼𝓼𝓲𝓪 🇷🇺</h3>
